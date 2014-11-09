@@ -3,7 +3,8 @@
 Simple application demonstrating how CloudFoundry-based clouds can host web applications written in [Go language](http://golang.org/).  
 It does simple *maths* like calculating prime factors of a number and listing the first N prime numbers.  
 
-You can use the following clouds for testing:  
+You can use the following clouds for testing: 
+
 
 - [IBM Bluemix](https://www.bluemix.net)  
 - [Pivotal](https://run.pivotal.io).  
